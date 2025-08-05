@@ -4,34 +4,40 @@ Bienvenido a mi portafolio de desarrollo web. Aquí encontrarás una lista de lo
 
 ## Proyectos
 
-1. [Cmic Edomex](https://cmicedomex.com.mx/)
+1. [CMIC Edomex](https://cmicedomex.com.mx/)
 
 
-2. [Reporte Anual Montepiedad](https://reporteanual.montepiedad.com.mx/)
+2. [CMIC CDMX](https://cmiccdmx.org/)
 
 
-3. [Nutrapel](https://nutrapel.com/)
+3. [Reporte Anual Montepiedad](https://reporteanual.montepiedad.com.mx/)
 
 
-4. [Vivendu](https://vivendu.mx/)
+4. [Nutrapel](https://nutrapel.com/)
 
 
-5. [Juarez Mendoza](https://juarezmendoza.com/)
+5. [ITC Edomex](https://itcedomex.mx/)
 
 
-6. [Blog Dsoft](https://blog.dsoft.mx/)
+6. [PrepaFued](https://prepafued.mx/)
 
 
-7. [Iruk Capital](https://irukcapital.mx/)
+7. [2A2 Consulting](https://2a2consulting.com/)
 
 
-8. [Verkur](https://verkur.mx/)
+8. [Juarez Mendoza](https://juarezmendoza.com/)
 
 
-9. [Gabre](https://gabre.com.mx/)
+9. [Blog Dsoft](https://blog.dsoft.mx/)
 
 
-10. [Caltursa](https://caltursa.com/)
+10. [Gabre](https://gabre.com.mx/)
+
+
+11. [Caltursa](https://caltursa.com/)
+
+
+12. [Incantations](https://incantations.mx/) 
 
 
 ---
